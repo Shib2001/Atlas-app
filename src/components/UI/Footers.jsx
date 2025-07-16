@@ -53,7 +53,7 @@ export const Footers = () => {
                 </li>
                 <li>
                   <NavLink
-                    to="https://thapatechnical.shop/source-code"
+                    to="https://github.com/Shib2001/Atlas-app.git"
                     target="_blank"
                   >
                     Source Code
