@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Greater Noida, Uttar Pradesh"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "+91-8882316381"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "shivjha1983@gmail.com"
+  }
+]
