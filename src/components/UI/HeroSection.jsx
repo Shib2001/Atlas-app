@@ -7,7 +7,7 @@ export const HeroSection = () => {
       <div className="container grid grid-two-cols">
         <div className="hero-content">
           <h1 className="heading-xl">
-            Explore Disover Understand The World
+            Explore Discover Understand The World
           </h1>
           <p>
             Discover the history, culture, and beauty of every nation. Sort,
